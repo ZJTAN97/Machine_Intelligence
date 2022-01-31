@@ -25,3 +25,32 @@ software for the data analysis should be described in the report.
 - Data has been attached to the repository in both `xlsx` and `csv` format.
 
 - Feel free to clone and create a separate branch on your own to do your analysis.
+
+
+
+Misc
+Demographic of customers (surveyed)
+
+Single Column Analysis (7)
+a. Important factors in when purchasing a car (Done)
+a. Which of the following exterior components is chosen to customize? (Done)
+b. Which of the following interior components is chosen to customize? (Done)
+c. Which components are usually customized among those who are willing to pay? (Done)
+d. How much are people willing to pay for customization? (Done)
+e. Percentage of people interested in designing own components (Done)
+a. How much are people willing to pay for personalized design? (Done)
+b. Percentage of people interested in designing own components (Done)
+c. People who are interested in designing their own components; what's the ratio of those who only prefer professional help? (Done)
+d. How much are people willing to pay for personalized design (excluding 0 bucks) - (Done)
+
+Multi Column Analysis (9)
+b. Age Group vs Important Factors (Done)
+c. Gender vs Important Factors (Done)
+d. Relationship Status vs Important Factors (done)
+f. Relationship Status vs Customization type
+g. Gender vs Customization type
+h. Age Group vs Customization type 
+i. Interested in Customisation vs How much willing to spend on customisation (Done)
+e. Compare the spread of prices between car customisation and personalized design (Done)
+f. Which components are usually customized for those that are into personalized design (Done)
+Consumers who want to customize “x” component also want to customize what other component? (Done)
